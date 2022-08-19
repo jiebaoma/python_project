@@ -1,0 +1,4 @@
+select u.id,u.name,u.card from user u where u.ip='1.1.1.1'
+select u.id,u.name,u.card from user u where u.ip='172.16.128.18'
+select u.id,u.name,u.card from user u where u.ip='172.16.128.17'
+select u.id,u.name,u.card from user u where u.ip='172.16.128.16'

@@ -1,0 +1,4 @@
+2022/07/25 21:12:08 demo.py ERROR error信息
+2022/07/25 21:12:08 demo.py INFO info信息
+2022/07/25 21:12:08 demo.py WARNING warning信息
+2022/07/25 21:12:08 demo.py CRITICAL critical信息

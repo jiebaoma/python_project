@@ -1,0 +1,3 @@
+2022/07/25 21:20:39 demo.py INFO 正确地计算出1+2之和
+2022/07/25 21:20:39 demo.py ERROR a+2之和计算错误:must be str, not int
+2022/07/25 21:20:39 demo.py ERROR a+2之和计算错误:must be str, not int

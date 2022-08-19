@@ -1,0 +1,10 @@
+-
+  path: /api/createorder
+  headers:
+    token:
+  data:
+    openid:
+    userid:
+    productid: 8888
+    cartid:
+  result: success

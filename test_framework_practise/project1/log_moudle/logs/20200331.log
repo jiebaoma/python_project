@@ -1,0 +1,9 @@
+[2020-03-31 12:13:10,542] - run.py [Line:9] - [INFO]-[thread:8252]-[process:7252] - 日志模块消息!
+[2020-03-31 12:13:10,542] - run.py [Line:10] - [DEBUG]-[thread:8252]-[process:7252] - 日志模块调试消息!
+[2020-03-31 12:13:10,542] - run.py [Line:11] - [ERROR]-[thread:8252]-[process:7252] - 日志模块错误消息!
+[2020-03-31 12:13:59,711] - run.py [Line:9] - [INFO]-[thread:4012]-[process:3968] - 日志模块消息!
+[2020-03-31 12:13:59,711] - run.py [Line:10] - [DEBUG]-[thread:4012]-[process:3968] - 日志模块调试消息!
+[2020-03-31 12:13:59,711] - run.py [Line:11] - [ERROR]-[thread:4012]-[process:3968] - 日志模块错误消息!
+[2020-03-31 15:11:38,128] - run.py [Line:9] - [INFO]-[thread:10960]-[process:10952] - 日志模块消息!
+[2020-03-31 15:11:38,128] - run.py [Line:10] - [DEBUG]-[thread:10960]-[process:10952] - 日志模块调试消息!
+[2020-03-31 15:11:38,128] - run.py [Line:11] - [ERROR]-[thread:10960]-[process:10952] - 日志模块错误消息!

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://F:/学习中的内容/Python/WEB自动化/Selenium-Framework-master/.idea/Selenium-Framework.iml" filepath="F:/学习中的内容/Python/WEB自动化/Selenium-Framework-master/.idea/Selenium-Framework.iml" />
+      <module fileurl="file://F:/学习中的内容/Python/WEB自动化/python-ui-auto-test-master/.idea/python-ui-auto-test-master.iml" filepath="F:/学习中的内容/Python/WEB自动化/python-ui-auto-test-master/.idea/python-ui-auto-test-master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/python程序.iml" filepath="$PROJECT_DIR$/.idea/python程序.iml" />
+      <module fileurl="file://F:/学习中的内容/Python/WEB自动化/webTest/.idea/webTest.iml" filepath="F:/学习中的内容/Python/WEB自动化/webTest/.idea/webTest.iml" />
+    </modules>
+  </component>
+</project>
